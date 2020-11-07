@@ -1,0 +1,136 @@
+.button-padding25 {
+    margin-left: 15px;
+}
+
+.button-padding {
+    margin-right: 10px;
+}
+
+.brand-color{
+    color: white;
+}
+
+.footer-position{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.center-div{
+    margin: 0 auto;
+    width: 70%;
+    height: 100%;
+}
+
+.center-account-div{
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+}
+
+.navbar-margin-below{
+    margin-bottom: 20px;
+}
+
+.card-height{
+    height: 500px;
+}
+
+.card-height-login{
+    height: 300px;
+}
+
+.center-cards{
+    text-align: center;
+}
+
+.cards-icons{
+    position: absolute;
+    width: 300px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.opacity-card{
+    opacity: 0.8;
+}
+
+.center_products{
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 70px;
+}
+
+.input-sizing{
+    width: 90%;
+}
+
+.signup-form-style{
+    width: 90%;
+    margin-top: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.card-for-account {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 70%;
+    height: 900px;
+    margin: auto;
+    text-align: center;
+}
+  
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+.card-for-pic {
+    padding: 10px;
+    margin: auto;
+}
+
+.signup-page-div{
+    margin: 2% 2% 2% 4%
+}
+
+.button-sizing-login{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.input-account{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.account-search-bar{
+    margin: 10px auto;
+    width: 80%;
+}
+
+.account-creditcard-bar{
+    margin: 10px auto;
+    width: 70%;
+}
+
+.card-for-contactlist {
+    max-width: 400px;
+    height: 70px;
+    margin: 0 auto 3%;
+    text-align: center;
+}
+
+.some-margin-t-b{
+    margin: 1% 0 0 0;   
+}
+
+.remove-friend-btn{
+    margin: 10px 10px 10px 20px;
+}
